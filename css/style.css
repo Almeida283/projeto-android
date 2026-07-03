@@ -47,7 +47,7 @@ header {
 }
 
 header > h1 {
-   font-family: var(--fonte-destaque);
+   font-family: var(--fonte-padrao);
    margin: 30px 0px 25px 0px;
    font-size: 3em;
    font-weight: 100;
